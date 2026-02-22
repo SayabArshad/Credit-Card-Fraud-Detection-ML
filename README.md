@@ -62,10 +62,10 @@ Print accuracy, confusion matrix, and classification report.
 
 ```
 Credit-Card-Fraud-Detection-ML/
-│-- Credit Card Fraud Detection using Scikit-learn.py   # Main script
-│-- creditcard.csv                                       # Dataset (user-provided)
-│-- README.md                                             # Documentation
-│-- assets/                                               # Images for README
+│-- Credit Card Fraud Detection using Scikit-learn.py   
+│-- creditcard.csv                                       
+│-- README.md                                           
+│-- assets/                                              
 │    ├── code.JPG
 │    └── terminal.JPG
 ```
